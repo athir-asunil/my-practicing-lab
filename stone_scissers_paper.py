@@ -1,3 +1,7 @@
+#Python program to play stone-paper-scissors with computer
+
+
+
 import random
 
 choices=["scissors","paper","stone"]
